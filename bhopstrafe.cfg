@@ -1,0 +1,8 @@
+alias "+bhopleft" "+left;+moveleft"
+alias "-bhopleft" "-left;-moveleft"
+alias "+bhopright" "+right;+moveright"
+alias "-bhopright" "-right;-moveright"
+bind kp_leftarrow "bhop_on"
+bind kp_rightarrow "bhop_off"
+alias "bhop_on" "bind d +bhopright;bind a +bhopleft"
+alias "bhop_off" "bind d +moveright;bind a +moveleft"
