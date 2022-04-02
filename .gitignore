@@ -1,0 +1,6 @@
+*.vdf
+buy*
+banned_user.cfg
+config.*
+controller.cfg
+controller.360.cfg
