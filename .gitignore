@@ -5,3 +5,4 @@ config.*
 controller.cfg
 controller.360*
 config_private_alias.cfg
+ai.cfg
