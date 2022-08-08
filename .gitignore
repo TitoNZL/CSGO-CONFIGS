@@ -1,8 +1,2 @@
-*.vdf
-buy*
-banned_user.cfg
-config.*
-controller.cfg
-controller.360*
-config_private_alias.cfg
-ai.cfg
+config_nulls.cfg
+config_alias_private.cfg
